@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thgjpvuq
 - I'm currently attending a coding bootcamp for Data Science.
 - 👀 I’m interested in developing my programming skills.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
